@@ -1,0 +1,27 @@
+connection=wired
+dhcp=yes
+browser=firefox
+disable_address_bar=yes
+managed_bookmarks=https://www.co-construct.com/skins/TitanHomes/default.aspx|Home|
+touchscreen_calibration="Microsoft Vmbus HID-compliant Mouse" "Evdev Axis Calibration" 32 68 32740 63 32779
+homepage=https://www.co-construct.com/skins/TitanHomes/default.aspx
+hostname=titankiosk
+allow_icmp_protocol=yes
+session_idle_forced=15
+kiosk_config=https://drive.google.com/file/d/1dwm5yvaWctR0-0P-3ZA_-M3guHJ23EV5/view?usp=sharing
+allow_popup_windows=yes
+browser_preferences=https://drive.google.com/file/d/1g0Pjm2CK2asDewvc-7Bq4m0CKpAZx_ch/view?usp=sharing
+printer_connection=direct
+printer_model=Alps MD-1000 Foomatic/md2k
+removable_devices=yes
+root_password=1234Rewq
+screensaver_idle=5
+shutdown_menu=reboot restart-session shutdown 
+slide_random=yes
+screensaver_archive_update=60
+screensaver_archive=https://github.com/reidcatch8/579110293847-THK/raw/master/KioskScreenSaver/images.zip
+timezone=America/Los_Angeles
+whitelist=co-construct.com google.com titanhomesllc.com
+wake_on_lan=yes
+additional_components=uefi.zip 08-ssh.xzm 10-printing.xzm 07-java.xzm 06-fonts.xzm 05-flash.xzm 
+
