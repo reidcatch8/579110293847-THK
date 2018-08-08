@@ -10,7 +10,7 @@ allow_icmp_protocol=yes
 session_idle_forced=15
 kiosk_config=https://github.com/reidcatch8/579110293847-THK/blob/master/KioskConfigFile/titankiosk.txt
 allow_popup_windows=yes
-browser_preferences=https://drive.google.com/file/d/1g0Pjm2CK2asDewvc-7Bq4m0CKpAZx_ch/view?usp=sharing
+#browser_preferences=https://drive.google.com/file/d/1g0Pjm2CK2asDewvc-7Bq4m0CKpAZx_ch/view?usp=sharing
 printer_connection=direct
 printer_model=Alps MD-1000 Foomatic/md2k
 removable_devices=yes
