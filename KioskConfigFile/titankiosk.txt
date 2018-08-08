@@ -8,7 +8,7 @@ homepage=https://www.co-construct.com/skins/TitanHomes/default.aspx
 hostname=titankiosk
 allow_icmp_protocol=yes
 session_idle_forced=15
-kiosk_config=https://drive.google.com/file/d/1dwm5yvaWctR0-0P-3ZA_-M3guHJ23EV5/view?usp=sharing
+kiosk_config=https://github.com/reidcatch8/579110293847-THK/blob/master/KioskConfigFile/titankiosk.txt
 allow_popup_windows=yes
 browser_preferences=https://drive.google.com/file/d/1g0Pjm2CK2asDewvc-7Bq4m0CKpAZx_ch/view?usp=sharing
 printer_connection=direct
